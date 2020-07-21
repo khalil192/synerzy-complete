@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "71617260568",
+    "firebase_url": "https://synerzy-809cd.firebaseio.com",
+    "project_id": "synerzy-809cd",
+    "storage_bucket": "synerzy-809cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71617260568:android:867e4d6156a34c2281276d",
+        "android_client_info": {
+          "package_name": "com.company.synerzy_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71617260568-it9ca68trl1l0btpn37e1ipj7v1maprg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpckRriuu5YCVq-YE1jsMxyxe1H4ckq3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71617260568-it9ca68trl1l0btpn37e1ipj7v1maprg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71617260568:android:731a69f0171555f481276d",
+        "android_client_info": {
+          "package_name": "com.example.synerzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71617260568-it9ca68trl1l0btpn37e1ipj7v1maprg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpckRriuu5YCVq-YE1jsMxyxe1H4ckq3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71617260568-it9ca68trl1l0btpn37e1ipj7v1maprg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71617260568:android:ffd59671781de0a681276d",
+        "android_client_info": {
+          "package_name": "com.example.synerzy_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71617260568-it9ca68trl1l0btpn37e1ipj7v1maprg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpckRriuu5YCVq-YE1jsMxyxe1H4ckq3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71617260568-it9ca68trl1l0btpn37e1ipj7v1maprg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
