@@ -17,11 +17,11 @@ initially the central_list (files)  is empty , any device 'x' connected to the n
 
 High level process is shown in these three pictures 
 
-- request to central server
+                                request to central server
 ![request_to_central_server](https://github.com/khalil192/synerzy-complete/blob/master/images/request_to_central_server.png)
 
-- actual file request transfer part
+                                actual file request transfer part
 ![actual_file_request_transfer_part](https://github.com/khalil192/synerzy-complete/blob/master/images/actual_file_request_transfer_part.png)
 
-- acknowledgement and update part
+                                acknowledgement and update part
 ![acknowledgement_and_update_part](https://github.com/khalil192/synerzy-complete/blob/master/images/acknowledgement_and_update_part.png)
